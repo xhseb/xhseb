@@ -1,4 +1,5 @@
-### Hi there 👋
+## 👩🏻‍💻42SEOUL👩🏻‍💻
+[![sonkang's 42 stats](https://badge42.herokuapp.com/api/stats/sonkang?privacyEmail=true)](https://github.com/xhseb)
 
 <!--
 **xhseb/xhseb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
